@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Docker Test Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f4f8;
+      text-align: center;
+      margin-top: 80px;
+    }
+    h1 {
+      color: #2496ed;
+    }
+    p {
+      color: #333;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Docker is working!</h1>
+  <p>This page is being served from inside a Docker container.</p>
+  <p>Name: Aarnav Jain | Reg No: 25BCE5262</p>
+</body>
+</html>
